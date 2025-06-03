@@ -1,4 +1,5 @@
 # Create-a--Strong-Password-and--Evaluate-Its-Strength
+
 Overview
 
 This task focuses on understanding password complexity, creating secure passwords, and evaluating their strength using free online tools. The goal is to identify weak patterns and improve password security through best practices.
